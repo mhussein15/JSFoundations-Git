@@ -1,5 +1,4 @@
-
-# Git Task Steps
+# Git Task Steps Edited by Mohammad Osama Hussein
 
 1. Fork this repository.
 2. Clone it in your `Development`: `git clone https://github.com/YOUR_GITHUB_USERNAME/JSFoundations-Git`
@@ -11,6 +10,8 @@
 8. Open the repository page on GitHub, you should now see two files: `README.md` and `example.txt`
 
 That's it! Well done!! Please share a link to your repository with the instructor.
+
+Hello World!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ---
 
